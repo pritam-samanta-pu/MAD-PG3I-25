@@ -73,7 +73,7 @@
 ## 2. `MainActivity.java`
 
 ```java
-package com.example.mytemp; //Your app name is smallCase
+package com.example.mytemp; //Your app name in smallCase
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -193,7 +193,7 @@ public class MainActivity extends AppCompatActivity {
 ## 4. `SecondActivity.java`
 
 ```java
-package com.example.mytemp; //Your app name is smallCase
+package com.example.mytemp; //Your app name in smallCase
 
 import android.os.Bundle;
 import android.widget.TextView;
