@@ -103,10 +103,18 @@ public class MainActivity extends AppCompatActivity {
         });
         counterThread.start();
     }
-    public  void stopCounter(){
+    public void stopCounter(){
         isRunning=false;
         stopBtn.setEnabled(false);
         startBtn.setEnabled(true);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if(isRunning){
+            stopCounter();
+        }
     }
 }
 ```
