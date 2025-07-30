@@ -46,7 +46,7 @@
 
 ## `MainActivity.java`
 
-```xml
+```java
 package com.example.mydemoapp; //Your App name
 
 import android.os.Bundle;
