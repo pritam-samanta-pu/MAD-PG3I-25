@@ -102,5 +102,5 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-![Options Menu Output](https://github.com/pritam-samanta-pu/MAD-PG3I-25/blob/main/out/Options%20Menu%20Output.png)
+<img src="https://github.com/pritam-samanta-pu/MAD-PG3I-25/blob/main/out/Options%20Menu%20Output.png" alt="Options Menu Output" style="width:50%;">
 
