@@ -102,5 +102,5 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-![Options Menu Output]([https://drive.google.com/file/d/1_wfFdpRrKAV8V0MKkscf-SdVNDWd6sc4/view?usp=sharing](https://github.com/pritam-samanta-pu/MAD-PG3I-25/blob/main/out/Options%20Menu%20Output.png))
+![Options Menu Output](https://github.com/pritam-samanta-pu/MAD-PG3I-25/blob/main/out/Options%20Menu%20Output.png)
 
