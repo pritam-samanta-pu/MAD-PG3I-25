@@ -1,3 +1,12 @@
+## Add Permissions
+
+Add the following permission to your `AndroidManifest.xml`:
+
+```xml
+<uses-permission android:name="android.permission.READ_SMS"/>
+<uses-permission android:name="android.permission.SEND_SMS"/>
+```
+
 ## MainActivity.java
 
 ```java
@@ -166,3 +175,4 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintVertical_bias="0.957" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
